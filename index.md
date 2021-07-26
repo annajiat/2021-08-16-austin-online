@@ -364,7 +364,7 @@ of code below the Schedule `<h2>` header below with
       </tr>
       <tr>               <!-- row 3   -->
         <td>9:15 am</td>        <!-- time    -->
-        <td><a href="https://datacarpentry.org/spreadsheets-socialsci/"Data Organizations in Spreadsheets</a></td>        <!-- content -->
+        <td><a href="https://datacarpentry.org/spreadsheets-socialsci/">Data Organizations in Spreadsheets</a></td>        <!-- content -->
       </tr>
         <tr>               <!-- row 3   -->
         <td>10:00 am</td>        <!-- time    -->
@@ -372,7 +372,7 @@ of code below the Schedule `<h2>` header below with
       </tr>
           <tr>               <!-- row 3   -->
         <td>10:15 am</td>        <!-- time    -->
-        <td><a href="https://datacarpentry.org/spreadsheets-socialsci/"Data Organizations in Spreadsheets</a></td>        <!-- content -->
+        <td><a href="https://datacarpentry.org/spreadsheets-socialsci/">Data Organizations in Spreadsheets</a></td>        <!-- content -->
       </tr>
               <tr>               <!-- row 3   -->
         <td>11:00 am</td>        <!-- time    -->
@@ -388,7 +388,7 @@ of code below the Schedule `<h2>` header below with
       </tr>
            <tr>               <!-- row 3   -->
         <td>12:00 pm</td>        <!-- time    -->
-             <td><a href="https://datacarpentry.org/openrefine-socialsci/"Introduction to OpenRefine</a></td>        <!-- content -->
+             <td><a href="https://datacarpentry.org/openrefine-socialsci/">Introduction to OpenRefine</a></td>        <!-- content -->
       </tr>
           <tr>               <!-- row 3   -->
         <td>1:00 pm</td>        <!-- time    -->
