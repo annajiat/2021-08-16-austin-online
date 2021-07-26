@@ -359,12 +359,40 @@ of code below the Schedule `<h2>` header below with
         <td><a href="{{ site.pre_survey }}{{ site.github.project_title }}" target="_blank">Pre-workshop survey</a></td>
       </tr>
       <tr>               <!-- row 2   -->
-        <td></td>        <!-- time    -->
-        <td></td>        <!-- content -->
+        <td>9:00 am (central)</td>        <!-- time    -->
+        <td>Introductions</td>        <!-- content -->
       </tr>
       <tr>               <!-- row 3   -->
-        <td></td>        <!-- time    -->
-        <td></td>        <!-- content -->
+        <td>9:15 am</td>        <!-- time    -->
+        <td><a href="https://datacarpentry.org/spreadsheets-socialsci/"Data Organizations in Spreadsheets</a></td>        <!-- content -->
+      </tr>
+        <tr>               <!-- row 3   -->
+        <td>10:00 am</td>        <!-- time    -->
+        <td>Break</td>        <!-- content -->
+      </tr>
+          <tr>               <!-- row 3   -->
+        <td>10:15 am</td>        <!-- time    -->
+        <td><a href="https://datacarpentry.org/spreadsheets-socialsci/"Data Organizations in Spreadsheets</a></td>        <!-- content -->
+      </tr>
+              <tr>               <!-- row 3   -->
+        <td>11:00 am</td>        <!-- time    -->
+        <td>Break</td>        <!-- content -->
+      </tr>
+                <tr>               <!-- row 3   -->
+        <td>11:45 am</td>        <!-- time    -->
+        <td><a href="https://datacarpentry.org/spreadsheets-socialsci/"Data Organizations in Spreadsheets</a></td>        <!-- content -->
+      </tr>
+              <tr>               <!-- row 3   -->
+        <td>12:00 pm</td>        <!-- time    -->
+        <td>Breal</td>        <!-- content -->
+      </tr>
+           <tr>               <!-- row 3   -->
+        <td>12:00 pm</td>        <!-- time    -->
+             <td><a href="https://datacarpentry.org/openrefine-socialsci/"Introduction to OpenRefine</a></td>        <!-- content -->
+      </tr>
+          <tr>               <!-- row 3   -->
+        <td>1:00 pm</td>        <!-- time    -->
+             <td>Wrap-up and End</td>        <!-- content -->
       </tr>
     </table>
   </div>
