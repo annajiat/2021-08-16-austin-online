@@ -359,7 +359,7 @@ of code below the Schedule `<h2>` header below with
         <td><a href="{{ site.pre_survey }}{{ site.github.project_title }}" target="_blank">Pre-workshop survey</a></td>
       </tr>
       <tr>               <!-- row 2   -->
-        <td>9:00 am (central)</td>        <!-- time    -->
+        <td>9:00 am</td>        <!-- time    -->
         <td>Introductions</td>        <!-- content -->
       </tr>
       <tr>               <!-- row 3   -->
@@ -380,7 +380,7 @@ of code below the Schedule `<h2>` header below with
       </tr>
                 <tr>               <!-- row 3   -->
         <td>11:45 am</td>        <!-- time    -->
-        <td><a href="https://datacarpentry.org/spreadsheets-socialsci/"Data Organizations in Spreadsheets</a></td>        <!-- content -->
+        <td><a href="https://datacarpentry.org/spreadsheets-socialsci/">Data Organizations in Spreadsheets</a></td>        <!-- content -->
       </tr>
               <tr>               <!-- row 3   -->
         <td>12:00 pm</td>        <!-- time    -->
@@ -400,16 +400,16 @@ of code below the Schedule `<h2>` header below with
     <h3>Day 2</h3>
     <table class="table table-striped">
       <tr>               <!-- row 1   -->
-        <td></td>        <!-- time    -->
-        <td></td>        <!-- content -->
+        <td>9:00 am</td>        <!-- time    -->
+        <td>Review questions</td>        <!-- content -->
       </tr>
       <tr>               <!-- row 2   -->
         <td></td>        <!-- time    -->
         <td></td>        <!-- content -->
       </tr>
       <tr>               <!-- row 3   -->
-        <td></td>        <!-- time    -->
-        <td></td>        <!-- content -->
+        <td>1:00 pm</td>        <!-- time    -->
+        <td>Wrap-up and End</td>        <!-- content -->
       </tr>
     </table>
   </div>
@@ -419,16 +419,16 @@ of code below the Schedule `<h2>` header below with
     <h3>Day 3</h3>
     <table class="table table-striped">
       <tr>               <!-- row 1   -->
-        <td></td>        <!-- time    -->
-        <td></td>        <!-- content -->
+   <td>9:00 am</td>        <!-- time    -->
+        <td>Review questions</td>       <!-- content -->
       </tr>
       <tr>               <!-- row 2   -->
         <td></td>        <!-- time    -->
         <td></td>        <!-- content -->
       </tr>
       <tr>               <!-- row 3   -->
-        <td></td>        <!-- time    -->
-        <td></td>        <!-- content -->
+   <td>1:00 pm</td>        <!-- time    -->
+        <td>Wrap-up and End</td>        <!-- content -->
       </tr>
     </table>
   </div>
@@ -436,12 +436,12 @@ of code below the Schedule `<h2>` header below with
     <h3>Day 4</h3>
     <table class="table table-striped">
       <tr>               <!-- row 1   -->
-        <td></td>        <!-- time    -->
-        <td></td>        <!-- content -->
+       <td>9:00 am</td>        <!-- time    -->
+    <td>Review questions</td>       <!-- content -->
       </tr>
       <tr>               <!-- row 2   -->
-        <td></td>        <!-- time    -->
-        <td></td>        <!-- content -->
+        <td>1:00 pm</td>        <!-- time    -->
+        <td>Wrap-up and End</td>        <!-- content -->
       </tr>
       <tr>               <!-- row 3   -->
         <td>End</td>
