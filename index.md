@@ -518,8 +518,7 @@ of code below the Schedule `<h2>` header below with
       </tr>
       <tr>               <!-- row 3   -->
    <td>1:00 pm</td>        <!-- time    -->
-        <td>End</td>
-        <td><a href="{{ site.post_survey }}{{ site.github.project_title }}" target="_blank">Post-workshop survey</a></td>
+        <td>End/<a href="{{ site.post_survey }}{{ site.github.project_title }}" target="_blank">Post-workshop survey</a></td>
       </tr>
     </table>
   </div>
