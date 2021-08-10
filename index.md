@@ -385,10 +385,10 @@ of code below the Schedule `<h2>` header below with
       </tr>
               <tr>               <!-- row 3   -->
         <td>12:00 pm</td>        <!-- time    -->
-        <td>Breal</td>        <!-- content -->
+        <td>Break</td>        <!-- content -->
       </tr>
            <tr>               <!-- row 3   -->
-        <td>12:00 pm</td>        <!-- time    -->
+        <td>12:15 pm</td>        <!-- time    -->
              <td><a href="https://datacarpentry.org/openrefine-socialsci/">Introduction to OpenRefine</a></td>        <!-- content -->
       </tr>
           <tr>               <!-- row 3   -->
@@ -405,8 +405,38 @@ of code below the Schedule `<h2>` header below with
         <td>Review questions</td>        <!-- content -->
       </tr>
       <tr>               <!-- row 2   -->
-        <td></td>        <!-- time    -->
-        <td></td>        <!-- content -->
+      <td>9:15 am</td>    <!-- time    -->
+        <td><a href="https://datacarpentry.org/openrefine-socialsci/">Introduction to OpenRefine</a></td>        <!-- content -->
+      </tr>
+            </tr>
+        <tr>               <!-- row 3   -->
+        <td>10:00 am</td>        <!-- time    -->
+        <td>Break</td>        <!-- content -->
+      </tr>
+          </tr>
+        <tr>               <!-- row 4  -->
+            <td>10:15 am</td>         <!-- time    -->
+        <td><a href="https://datacarpentry.org/openrefine-socialsci/">Introduction to OpenRefine</a></td>        <!-- content -->
+      </tr>
+     <tr>               <!-- row 5  -->
+            <td>10:15 am</td>         <!-- time    -->
+        <td><a href="https://datacarpentry.org/openrefine-socialsci/">Introduction to OpenRefine</a></td>        <!-- content -->
+      </tr>
+         <tr>               <!-- row 6   -->
+        <td>11:00 am</td>        <!-- time    -->
+        <td>Break</td>        <!-- content -->
+      </tr>
+         <tr>               <!-- row 7  -->
+        <td>11:15 am</td>        <!-- time    -->
+   <td><a href="https://datacarpentry.org/openrefine-socialsci/">Introduction to OpenRefine</a></td>        <!-- content -->    
+  </tr>
+        <tr>               <!-- row 3   -->
+        <td>12:00 pm</td>        <!-- time    -->
+        <td>Break</td>        <!-- content -->
+      </tr>
+        <tr>               <!-- row 3   -->
+        <td>12:10 pm</td>        <!-- time    -->
+        <td><a href="https://datacarpentry.org/r-socialsci/">Data Analysis and Visualization with R for Social Scientists (setup & introduction)</a></td>        <!-- content -->
       </tr>
       <tr>               <!-- row 3   -->
         <td>1:00 pm</td>        <!-- time    -->
