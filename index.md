@@ -355,69 +355,64 @@ of code below the Schedule `<h2>` header below with
   <div class="col-md-6"> <!-- left column -->
     <h3>Day 1</h3>
     <table class="table table-striped">
-      <tr>               <!-- row 1   -->
+    <tr>               <!-- row 1   -->
         <td>Before starting</td>
         <td><a href="{{ site.pre_survey }}{{ site.github.project_title }}" target="_blank">Pre-workshop survey</a></td>
       </tr>
-      <tr>               <!-- row 2   -->
+    <tr>               <!-- row 2   -->
         <td>9:00 am</td>        <!-- time    -->
         <td>Introductions</td>        <!-- content -->
       </tr>
-      <tr>               <!-- row 3   -->
+    <tr>               <!-- row 3   -->
         <td>9:15 am</td>        <!-- time    -->
         <td><a href="https://datacarpentry.org/spreadsheets-socialsci/">Data Organizations in Spreadsheets</a></td>        <!-- content -->
       </tr>
-        <tr>               <!-- row 3   -->
+     <tr>               <!-- row 3   -->
         <td>10:00 am</td>        <!-- time    -->
         <td>Break</td>        <!-- content -->
       </tr>
-          <tr>               <!-- row 3   -->
+     <tr>               <!-- row 3   -->
         <td>10:15 am</td>        <!-- time    -->
         <td><a href="https://datacarpentry.org/spreadsheets-socialsci/">Data Organizations in Spreadsheets</a></td>        <!-- content -->
       </tr>
-              <tr>               <!-- row 3   -->
+      <tr>               <!-- row 3   -->
         <td>11:00 am</td>        <!-- time    -->
         <td>Break</td>        <!-- content -->
       </tr>
-                <tr>               <!-- row 3   -->
+      <tr>               <!-- row 3   -->
         <td>11:15 am</td>        <!-- time    -->
         <td><a href="https://datacarpentry.org/spreadsheets-socialsci/">Data Organizations in Spreadsheets</a></td>        <!-- content -->
       </tr>
-              <tr>               <!-- row 3   -->
+      <tr>               <!-- row 3   -->
         <td>12:00 pm</td>        <!-- time    -->
         <td>Break</td>        <!-- content -->
       </tr>
-           <tr>               <!-- row 3   -->
+    <tr>               <!-- row 3   -->
         <td>12:15 pm</td>        <!-- time    -->
              <td><a href="https://datacarpentry.org/openrefine-socialsci/">Introduction to OpenRefine</a></td>        <!-- content -->
       </tr>
-          <tr>               <!-- row 3   -->
+   <tr>               <!-- row 3   -->
         <td>1:00 pm</td>        <!-- time    -->
              <td>Wrap-up and End</td>        <!-- content -->
-      </tr>
+ </tr>
     </table>
   </div>
   <div class="col-md-6"> <!-- right column -->
     <h3>Day 2</h3>
     <table class="table table-striped">
-      <tr>               <!-- row 1   -->
+    <tr>               <!-- row 1   -->
         <td>9:00 am</td>        <!-- time    -->
         <td>Review questions</td>        <!-- content -->
-      </tr>
-      <tr>               <!-- row 2   -->
+     </tr>
+   <tr>               <!-- row 2   -->
       <td>9:15 am</td>    <!-- time    -->
         <td><a href="https://datacarpentry.org/openrefine-socialsci/">Introduction to OpenRefine</a></td>        <!-- content -->
-      </tr>
-        <tr>               <!-- row 3   -->
+    </tr>
+   <tr>               <!-- row 3   -->
         <td>10:00 am</td>        <!-- time    -->
         <td>Break</td>        <!-- content -->
-      </tr>
-          </tr>
+     </tr>
         <tr>               <!-- row 4  -->
-            <td>10:15 am</td>         <!-- time    -->
-        <td><a href="https://datacarpentry.org/openrefine-socialsci/">Introduction to OpenRefine</a></td>        <!-- content -->
-      </tr>
-     <tr>               <!-- row 5  -->
             <td>10:15 am</td>         <!-- time    -->
         <td><a href="https://datacarpentry.org/openrefine-socialsci/">Introduction to OpenRefine</a></td>        <!-- content -->
       </tr>
