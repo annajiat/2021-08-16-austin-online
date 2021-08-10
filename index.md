@@ -380,7 +380,7 @@ of code below the Schedule `<h2>` header below with
         <td>Break</td>        <!-- content -->
       </tr>
                 <tr>               <!-- row 3   -->
-        <td>11:45 am</td>        <!-- time    -->
+        <td>11:15 am</td>        <!-- time    -->
         <td><a href="https://datacarpentry.org/spreadsheets-socialsci/">Data Organizations in Spreadsheets</a></td>        <!-- content -->
       </tr>
               <tr>               <!-- row 3   -->
@@ -408,7 +408,6 @@ of code below the Schedule `<h2>` header below with
       <td>9:15 am</td>    <!-- time    -->
         <td><a href="https://datacarpentry.org/openrefine-socialsci/">Introduction to OpenRefine</a></td>        <!-- content -->
       </tr>
-            </tr>
         <tr>               <!-- row 3   -->
         <td>10:00 am</td>        <!-- time    -->
         <td>Break</td>        <!-- content -->
